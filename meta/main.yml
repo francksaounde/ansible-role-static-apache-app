@@ -1,0 +1,7 @@
+galaxy_info:
+  author: Franck Saounde based on a Eazytraining template 
+  description: Deploy static webapp using docker 
+
+  platforms:
+  - name: CentOS
+    versions: 7
